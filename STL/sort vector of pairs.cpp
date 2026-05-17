@@ -34,6 +34,15 @@ int main()
                 v[j].first = v[j + 1].first;
                 v[j + 1].first = temp;
             }
+            else if (v[j].second == v[j + 1].second)
+            {
+                if (v[j].first < v[j + 1].first)
+                {
+                    int temp = v[j].first;
+                    v[j].first = v[j + 1].first;
+                    v[j + 1].first = temp;
+                }
+            }
         }
     }
     
