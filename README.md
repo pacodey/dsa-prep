@@ -11,4 +11,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/pacodey/dsa-prep/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
