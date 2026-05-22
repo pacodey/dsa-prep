@@ -15,10 +15,6 @@ public:
             nums[i] = *it;
             it++;
         }
-        // for (int i = k; i < nums.size(); i++)
-        // {
-        //     nums[i] = 0;
-        // }
         return k;
     }
 };
