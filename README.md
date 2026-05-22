@@ -7,6 +7,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
