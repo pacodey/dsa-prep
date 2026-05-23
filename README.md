@@ -16,6 +16,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ c++, stl, dsa practice problems and solutions
 | [0009-palindrome-number](https://github.com/pacodey/dsa-prep/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
