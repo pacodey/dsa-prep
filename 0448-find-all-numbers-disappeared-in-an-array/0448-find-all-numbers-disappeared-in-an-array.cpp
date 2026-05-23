@@ -5,7 +5,7 @@ public:
     {
         int n = nums.size();
         vector <int> missing;
-        set <int> present;
+        unordered_set <int> present;
         
         for (int i = 1; i <= n; i++)
         {
