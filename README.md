@@ -55,6 +55,7 @@ c++, stl, dsa practice problems and solutions
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/pacodey/dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/pacodey/dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
