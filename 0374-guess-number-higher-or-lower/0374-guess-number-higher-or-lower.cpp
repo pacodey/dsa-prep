@@ -12,18 +12,26 @@ class Solution
 public:
     int guessNumber(int n)
     {
-        int num = n/2;
-        while (guess(num) != 0)
+        int left = 1;
+        int right = n;
+
+        while (left <= right)
         {
-            if (guess(num) == -1)
+            int mid = left + (right - left)/2;
+            int a = guess(mid);
+            if (a == 1)
             {
-                num--;
+                left = mid + 1;
             }
-            else if (guess(num) == 1)
+            else if (a == -1)
             {
-                num++;
+                right = mid - 1;
+            }
+            else
+            {
+                return mid;
             }
         }
-        return num;
+        return -1;
     }
 };
