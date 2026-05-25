@@ -40,6 +40,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pacodey/dsa-prep/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
@@ -102,4 +103,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
