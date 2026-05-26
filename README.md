@@ -24,6 +24,7 @@ c++, stl, dsa practice problems and solutions
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ c++, stl, dsa practice problems and solutions
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
