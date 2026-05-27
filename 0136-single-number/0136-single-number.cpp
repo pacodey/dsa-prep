@@ -4,7 +4,6 @@ public:
     int singleNumber(vector <int> &nums)
     {
         sort(nums.begin(), nums.end());
-        stack <int> s;
         auto even = nums.begin();
         auto odd = ++nums.begin();
         while (odd != nums.end())
