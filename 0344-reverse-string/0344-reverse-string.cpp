@@ -3,15 +3,15 @@ class Solution
 public:
     void reverseString(vector <char> &s)
     {
-        auto left = s.begin();
-        auto right = --s.end();
+        int left = 0;
+        int right = s.size() - 1;
         while (left <= right)
         {
-            char c = *left;
-            *left = *right;
-            *right = c;
+            swap(s[left], s[right]);
             left++;
             right--;
         }
+
+        
     }
 };
