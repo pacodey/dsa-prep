@@ -41,6 +41,7 @@ c++, stl, dsa practice problems and solutions
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
