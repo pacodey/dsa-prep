@@ -56,6 +56,7 @@ c++, stl, dsa practice problems and solutions
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/pacodey/dsa-prep/tree/master/0771-jewels-and-stones) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/pacodey/dsa-prep/tree/master/3931-check-adjacent-digit-differences) |
 ## Two Pointers
 |  |
 | ------- |
