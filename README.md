@@ -13,6 +13,7 @@ c++, stl, dsa practice problems and solutions
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pacodey/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +119,5 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
