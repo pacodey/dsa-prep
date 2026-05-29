@@ -36,6 +36,7 @@ c++, stl, dsa practice problems and solutions
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pacodey/dsa-prep/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pacodey/dsa-prep/tree/master/0476-number-complement) |
@@ -116,6 +118,7 @@ c++, stl, dsa practice problems and solutions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
