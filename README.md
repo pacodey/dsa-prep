@@ -35,6 +35,7 @@ c++, stl, dsa practice problems and solutions
 | [0009-palindrome-number](https://github.com/pacodey/dsa-prep/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
@@ -114,6 +115,7 @@ c++, stl, dsa practice problems and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -123,6 +125,7 @@ c++, stl, dsa practice problems and solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
