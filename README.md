@@ -46,6 +46,7 @@ c++, stl, dsa practice problems and solutions
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
+| [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
@@ -132,4 +133,8 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
