@@ -14,6 +14,7 @@ c++, stl, dsa practice problems and solutions
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pacodey/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +48,7 @@ c++, stl, dsa practice problems and solutions
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pacodey/dsa-prep/tree/master/2769-find-the-maximum-achievable-number) |
@@ -140,4 +142,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
