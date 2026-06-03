@@ -44,6 +44,7 @@ c++, stl, dsa practice problems and solutions
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pacodey/dsa-prep/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pacodey/dsa-prep/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pacodey/dsa-prep/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/pacodey/dsa-prep/tree/master/0504-base-7) |
@@ -104,6 +105,7 @@ c++, stl, dsa practice problems and solutions
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pacodey/dsa-prep/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pacodey/dsa-prep/tree/master/0476-number-complement) |
 ## Queue
@@ -131,6 +133,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/pacodey/dsa-prep/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
