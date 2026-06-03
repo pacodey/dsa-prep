@@ -3,21 +3,16 @@ class Solution
 public:
     void moveZeroes(vector <int> &nums)
     {
-        queue <int> q;
-        for (int i = 0; i < nums.size(); i++)
+        int wp = 0;
+        for (int rp = 0; rp < nums.size(); rp++)
         {
-            if (nums[i] != 0)
+            if (nums[rp] != 0)
             {
-                q.push(nums[i]);
+                nums[wp] = nums[rp];
+                wp++;
             }
         }
-        int n = q.size();
-        for (int i = 0; i < n; i++)
-        {
-            nums[i] = q.front();
-            q.pop();
-        }
-        for (int i = n; i < nums.size(); i++)
+        for (int i = wp; i < nums.size(); i++)
         {
             nums[i] = 0;
         }
