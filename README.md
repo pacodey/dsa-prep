@@ -12,6 +12,7 @@ c++, stl, dsa practice problems and solutions
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
@@ -77,6 +78,7 @@ c++, stl, dsa practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pacodey/dsa-prep/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
