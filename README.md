@@ -10,6 +10,7 @@ c++, stl, dsa practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ c++, stl, dsa practice problems and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -168,5 +170,6 @@ c++, stl, dsa practice problems and solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
