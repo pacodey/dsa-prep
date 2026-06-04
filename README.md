@@ -12,6 +12,7 @@ c++, stl, dsa practice problems and solutions
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -27,6 +28,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
@@ -96,6 +98,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
@@ -122,6 +125,7 @@ c++, stl, dsa practice problems and solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -161,4 +165,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
