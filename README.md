@@ -10,6 +10,7 @@ c++, stl, dsa practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pacodey/dsa-prep/tree/master/0344-reverse-string) |
@@ -93,6 +95,7 @@ c++, stl, dsa practice problems and solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
