@@ -24,6 +24,7 @@ c++, stl, dsa practice problems and solutions
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pacodey/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ c++, stl, dsa practice problems and solutions
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pacodey/dsa-prep/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ c++, stl, dsa practice problems and solutions
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
