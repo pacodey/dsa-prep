@@ -10,6 +10,7 @@ c++, stl, dsa practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/pacodey/dsa-prep/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
@@ -179,4 +181,8 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
