@@ -6,7 +6,7 @@ public:
         vector <int> temp(nums.size());
         for (int i = 0; i < nums.size(); i++)
         {
-            temp[i] = nums[(10*nums.size() + i - k) % nums.size()];
+            temp[i] = nums[(4*nums.size() + i - k) % nums.size()];
         }
         nums = temp;
     }
