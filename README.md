@@ -12,6 +12,7 @@ c++, stl, dsa practice problems and solutions
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
