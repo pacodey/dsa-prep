@@ -4,11 +4,11 @@ public:
     int trailingZeroes(int n)
     {
         int sum = 0;
-        int i = 1;
-        while (n/pow(5, i) > 0)
+        int div = 5;
+        while (n/div > 0)
         {
-            sum += (int)(n/pow(5, i));
-            i++;
+            sum += n/div;
+            div *= 5;
         }
         return sum;
     }
