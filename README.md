@@ -52,6 +52,7 @@ c++, stl, dsa practice problems and solutions
 | [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/pacodey/dsa-prep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
