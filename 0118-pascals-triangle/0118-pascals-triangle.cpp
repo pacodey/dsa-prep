@@ -4,21 +4,9 @@ public:
     vector <vector <int>> generate(int numRows)
     {
         vector <vector <int>> v;
-        // for (int i = 0; i < numRows + 1; i++)
-        // {
-        //     v[i][0] = 1;
-        // }
-        // for (int j = 0; j < numRows + 1; j++)
-        // {
-        //     v[0][j] = 1;
-        // }
         for (int i = 0; i < numRows; i++)
         {
-            vector <int> ones;
-            for (int j = 0; j < numRows; j++)
-            {
-                ones.push_back(1);
-            }
+            vector <int> ones (numRows, 1);
             v.push_back(ones);
         }
         for (int i = 1; i < numRows; i++)
