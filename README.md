@@ -14,6 +14,7 @@ c++, stl, dsa practice problems and solutions
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pacodey/dsa-prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pacodey/dsa-prep/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@ c++, stl, dsa practice problems and solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pacodey/dsa-prep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pacodey/dsa-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
@@ -116,6 +118,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
