@@ -7,6 +7,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pacodey/dsa-prep/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pacodey/dsa-prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pacodey/dsa-prep/tree/master/0035-search-insert-position) |
@@ -99,6 +100,7 @@ c++, stl, dsa practice problems and solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pacodey/dsa-prep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pacodey/dsa-prep/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
@@ -193,6 +195,7 @@ c++, stl, dsa practice problems and solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pacodey/dsa-prep/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
