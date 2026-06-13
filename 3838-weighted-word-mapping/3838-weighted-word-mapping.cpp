@@ -3,7 +3,6 @@ class Solution
 public:
     string mapWordWeights(vector <string> &words, vector <int> &weights)
     {
-        //vector <int> wordweights(words.size());
         string ans = "";
         for (int i = 0; i < words.size(); i++)
         {
@@ -12,7 +11,6 @@ public:
             {
                 wordweight += weights[words[i][j] - 'a'];
             }
-            //wordweights.push_back(wordweight%26);
             ans += -1*wordweight%26 + 'z';
         }
         return ans;
