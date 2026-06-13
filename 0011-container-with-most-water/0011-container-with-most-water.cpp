@@ -5,7 +5,7 @@ public:
     {
         int left = 0;
         int right = height.size() - 1;
-        int maxvol = (right - left)*(height[right] > height[left] ? height[left] : height[right]);
+        int maxvol = (right - left) * min(height[left], height[right]);
         while (left != right)
         {
             if (height[left] < height[right])
@@ -16,10 +16,7 @@ public:
             {
                 right--;
             }
-            if (maxvol < (right - left)*(height[right] > height[left] ? height[left] : height[right]))
-            {
-                maxvol = (right - left)*(height[right] > height[left] ? height[left] : height[right]);
-            }
+            maxvol = max(maxvol, (right - left) * min(height[left], height[right]));
         }
         return maxvol;
     }
