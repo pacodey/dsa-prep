@@ -30,6 +30,7 @@ c++, stl, dsa practice problems and solutions
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/pacodey/dsa-prep/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pacodey/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
