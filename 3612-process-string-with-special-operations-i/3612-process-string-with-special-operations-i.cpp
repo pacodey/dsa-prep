@@ -19,10 +19,7 @@ public:
             }
             else if (s[i] == '%')
             {
-                if (result.size() > 0)
-                {
-                    reverse(result.begin(), result.end());
-                }
+                reverse(result.begin(), result.end());
             }
             else
             {
