@@ -39,6 +39,7 @@ c++, stl, dsa practice problems and solutions
 | [1732-find-the-highest-altitude](https://github.com/pacodey/dsa-prep/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pacodey/dsa-prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/pacodey/dsa-prep/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -89,6 +90,7 @@ c++, stl, dsa practice problems and solutions
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pacodey/dsa-prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pacodey/dsa-prep/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -183,6 +185,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Interactive
 |  |
 | ------- |
