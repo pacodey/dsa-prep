@@ -42,6 +42,7 @@ c++, stl, dsa practice problems and solutions
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/pacodey/dsa-prep/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -115,6 +116,7 @@ c++, stl, dsa practice problems and solutions
 | [0771-jewels-and-stones](https://github.com/pacodey/dsa-prep/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/pacodey/dsa-prep/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
@@ -167,6 +169,7 @@ c++, stl, dsa practice problems and solutions
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/pacodey/dsa-prep/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
