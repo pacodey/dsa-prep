@@ -51,6 +51,7 @@ c++, stl, dsa practice problems and solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
@@ -73,6 +74,7 @@ c++, stl, dsa practice problems and solutions
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -205,6 +207,7 @@ c++, stl, dsa practice problems and solutions
 | [0229-majority-element-ii](https://github.com/pacodey/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 ## Number Theory
 |  |
 | ------- |
