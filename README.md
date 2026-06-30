@@ -127,6 +127,7 @@ c++, stl, dsa practice problems and solutions
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/pacodey/dsa-prep/tree/master/0504-base-7) |
+| [0709-to-lower-case](https://github.com/pacodey/dsa-prep/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/pacodey/dsa-prep/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
