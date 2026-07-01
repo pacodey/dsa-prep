@@ -56,6 +56,7 @@ c++, stl, dsa practice problems and solutions
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/pacodey/dsa-prep/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
@@ -264,6 +265,7 @@ c++, stl, dsa practice problems and solutions
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/pacodey/dsa-prep/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
 ## Geometry
 |  |
