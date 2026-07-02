@@ -31,6 +31,7 @@ c++, stl, dsa practice problems and solutions
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pacodey/dsa-prep/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/pacodey/dsa-prep/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
@@ -261,6 +262,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pacodey/dsa-prep/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/pacodey/dsa-prep/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
