@@ -92,6 +92,7 @@ c++, stl, dsa practice problems and solutions
 | [0009-palindrome-number](https://github.com/pacodey/dsa-prep/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pacodey/dsa-prep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pacodey/dsa-prep/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pacodey/dsa-prep/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pacodey/dsa-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0172-factorial-trailing-zeroes) |
@@ -246,6 +247,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/pacodey/dsa-prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pacodey/dsa-prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -323,4 +325,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pacodey/dsa-prep/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pacodey/dsa-prep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
