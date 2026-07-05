@@ -36,6 +36,7 @@ c++, stl, dsa practice problems and solutions
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
@@ -113,6 +114,7 @@ c++, stl, dsa practice problems and solutions
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -256,6 +258,7 @@ c++, stl, dsa practice problems and solutions
 | [0118-pascals-triangle](https://github.com/pacodey/dsa-prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -338,4 +341,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/pacodey/dsa-prep/tree/master/0319-bulb-switcher) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
