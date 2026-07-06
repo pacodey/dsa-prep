@@ -113,6 +113,7 @@ c++, stl, dsa practice problems and solutions
 | [0504-base-7](https://github.com/pacodey/dsa-prep/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -258,6 +259,7 @@ c++, stl, dsa practice problems and solutions
 | [0118-pascals-triangle](https://github.com/pacodey/dsa-prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 ## Recursion
 |  |
