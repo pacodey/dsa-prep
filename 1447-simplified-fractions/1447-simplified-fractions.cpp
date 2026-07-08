@@ -1,15 +1,8 @@
-int gcd(int a, int b);
-
 class Solution
 {
 public:
     vector <string> simplifiedFractions(int n)
     {
-        if (n == 1)
-        {
-            return {};
-        }
-
         vector <string> fracs;
         for (int i = 2; i <= n; i++)
         {
@@ -17,25 +10,10 @@ public:
             {
                 if (gcd(i, j) == 1)
                 {
-                    string s = "";
-                    s += to_string(j);
-                    s += '/';
-                    s += to_string(i);
-                    fracs.push_back(s);
+                    fracs.push_back(to_string(j) + "/" + to_string(i));
                 }
             }
         }
         return fracs;
     }
 };
-
-int gcd(int a, int b)
-{
-    int small = a > b ? b : a;
-    int big = a + b - small;
-    if (small == 0)
-    {
-        return big;
-    }
-    return gcd(small, big - (big/small)*small);
-}
