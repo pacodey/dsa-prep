@@ -133,6 +133,7 @@ c++, stl, dsa practice problems and solutions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pacodey/dsa-prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pacodey/dsa-prep/tree/master/2769-find-the-maximum-achievable-number) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
+| [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -158,6 +159,7 @@ c++, stl, dsa practice problems and solutions
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/pacodey/dsa-prep/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/pacodey/dsa-prep/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/pacodey/dsa-prep/tree/master/3931-check-adjacent-digit-differences) |
@@ -354,8 +356,10 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/pacodey/dsa-prep/tree/master/0319-bulb-switcher) |
+| [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
