@@ -1,16 +1,17 @@
 class Solution
 {
 public:
-    bool isGoodArray(vector <int> &nums)
+    bool isGoodArray(vector<int> &nums)
     {
         int hcf = nums[0];
         if (hcf == 1)
         {
             return true;
         }
-        for (int i = 1; i < nums.size(); i++)
+
+        for (int x : nums)
         {
-            hcf = gcd(hcf, nums[i]);
+            hcf = gcd(hcf, x);
             if (hcf == 1)
             {
                 return true;
