@@ -39,6 +39,7 @@ c++, stl, dsa practice problems and solutions
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/pacodey/dsa-prep/tree/master/1470-shuffle-the-array) |
@@ -119,6 +120,7 @@ c++, stl, dsa practice problems and solutions
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
@@ -253,6 +255,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0204-count-primes](https://github.com/pacodey/dsa-prep/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/pacodey/dsa-prep/tree/master/1447-simplified-fractions) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
