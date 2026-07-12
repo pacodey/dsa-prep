@@ -42,6 +42,7 @@ c++, stl, dsa practice problems and solutions
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/pacodey/dsa-prep/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -87,6 +88,7 @@ c++, stl, dsa practice problems and solutions
 | [0771-jewels-and-stones](https://github.com/pacodey/dsa-prep/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -206,6 +208,7 @@ c++, stl, dsa practice problems and solutions
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
