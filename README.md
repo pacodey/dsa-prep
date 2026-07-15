@@ -144,6 +144,7 @@ c++, stl, dsa practice problems and solutions
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pacodey/dsa-prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ c++, stl, dsa practice problems and solutions
 | [2413-smallest-even-multiple](https://github.com/pacodey/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pacodey/dsa-prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
