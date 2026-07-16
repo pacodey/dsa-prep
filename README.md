@@ -37,6 +37,7 @@ c++, stl, dsa practice problems and solutions
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
@@ -87,6 +88,7 @@ c++, stl, dsa practice problems and solutions
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/pacodey/dsa-prep/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
@@ -122,6 +124,7 @@ c++, stl, dsa practice problems and solutions
 | [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
@@ -255,6 +258,7 @@ c++, stl, dsa practice problems and solutions
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pacodey/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 ## Number Theory
@@ -262,6 +266,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0204-count-primes](https://github.com/pacodey/dsa-prep/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/pacodey/dsa-prep/tree/master/1447-simplified-fractions) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
