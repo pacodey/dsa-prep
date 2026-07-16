@@ -66,6 +66,7 @@ c++, stl, dsa practice problems and solutions
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/pacodey/dsa-prep/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pacodey/dsa-prep/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -143,6 +144,7 @@ c++, stl, dsa practice problems and solutions
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/pacodey/dsa-prep/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pacodey/dsa-prep/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pacodey/dsa-prep/tree/master/2769-find-the-maximum-achievable-number) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
@@ -279,6 +281,7 @@ c++, stl, dsa practice problems and solutions
 | [2221-find-triangular-sum-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/pacodey/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pacodey/dsa-prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -347,6 +350,7 @@ c++, stl, dsa practice problems and solutions
 | [0074-search-a-2d-matrix](https://github.com/pacodey/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
 |  |
 | ------- |
