@@ -61,6 +61,7 @@ c++, stl, dsa practice problems and solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -139,6 +140,7 @@ c++, stl, dsa practice problems and solutions
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2396-strictly-palindromic-number](https://github.com/pacodey/dsa-prep/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/pacodey/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
@@ -225,6 +227,7 @@ c++, stl, dsa practice problems and solutions
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -279,6 +282,7 @@ c++, stl, dsa practice problems and solutions
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/pacodey/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
@@ -368,6 +372,7 @@ c++, stl, dsa practice problems and solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting Sort
 |  |
