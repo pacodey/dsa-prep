@@ -46,6 +46,7 @@ c++, stl, dsa practice problems and solutions
 | [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/pacodey/dsa-prep/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/pacodey/dsa-prep/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/pacodey/dsa-prep/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ c++, stl, dsa practice problems and solutions
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -138,6 +140,7 @@ c++, stl, dsa practice problems and solutions
 | [1390-four-divisors](https://github.com/pacodey/dsa-prep/tree/master/1390-four-divisors) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/pacodey/dsa-prep/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1447-simplified-fractions](https://github.com/pacodey/dsa-prep/tree/master/1447-simplified-fractions) |
+| [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -273,6 +276,7 @@ c++, stl, dsa practice problems and solutions
 | [0387-first-unique-character-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/pacodey/dsa-prep/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
 ## Number Theory
