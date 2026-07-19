@@ -38,6 +38,7 @@ c++, stl, dsa practice problems and solutions
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
@@ -132,6 +133,7 @@ c++, stl, dsa practice problems and solutions
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
