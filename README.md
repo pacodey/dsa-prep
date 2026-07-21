@@ -42,6 +42,7 @@ c++, stl, dsa practice problems and solutions
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pacodey/dsa-prep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pacodey/dsa-prep/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -137,6 +138,7 @@ c++, stl, dsa practice problems and solutions
 | [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/pacodey/dsa-prep/tree/master/1250-check-if-it-is-a-good-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pacodey/dsa-prep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
@@ -247,6 +249,7 @@ c++, stl, dsa practice problems and solutions
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pacodey/dsa-prep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pacodey/dsa-prep/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/pacodey/dsa-prep/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
