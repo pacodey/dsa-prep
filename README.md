@@ -133,6 +133,7 @@ c++, stl, dsa practice problems and solutions
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/pacodey/dsa-prep/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
@@ -319,6 +320,7 @@ c++, stl, dsa practice problems and solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
+| [0788-rotated-digits](https://github.com/pacodey/dsa-prep/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 ## Recursion
 |  |
