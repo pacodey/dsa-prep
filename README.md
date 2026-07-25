@@ -165,6 +165,7 @@ c++, stl, dsa practice problems and solutions
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/pacodey/dsa-prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pacodey/dsa-prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/pacodey/dsa-prep/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,6 +245,7 @@ c++, stl, dsa practice problems and solutions
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3536-maximum-product-of-two-digits](https://github.com/pacodey/dsa-prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
