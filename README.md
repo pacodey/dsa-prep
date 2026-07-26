@@ -34,6 +34,7 @@ c++, stl, dsa practice problems and solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pacodey/dsa-prep/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/pacodey/dsa-prep/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pacodey/dsa-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
@@ -132,6 +133,7 @@ c++, stl, dsa practice problems and solutions
 | [0504-base-7](https://github.com/pacodey/dsa-prep/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/pacodey/dsa-prep/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pacodey/dsa-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/pacodey/dsa-prep/tree/master/0788-rotated-digits) |
@@ -237,6 +239,7 @@ c++, stl, dsa practice problems and solutions
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pacodey/dsa-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
