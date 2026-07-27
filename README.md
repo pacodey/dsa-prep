@@ -73,6 +73,7 @@ c++, stl, dsa practice problems and solutions
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/pacodey/dsa-prep/tree/master/2460-apply-operations-to-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pacodey/dsa-prep/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pacodey/dsa-prep/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -268,6 +269,7 @@ c++, stl, dsa practice problems and solutions
 | [2221-find-triangular-sum-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/pacodey/dsa-prep/tree/master/2460-apply-operations-to-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pacodey/dsa-prep/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3612-process-string-with-special-operations-i](https://github.com/pacodey/dsa-prep/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -385,6 +387,7 @@ c++, stl, dsa practice problems and solutions
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/pacodey/dsa-prep/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pacodey/dsa-prep/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
 |  |
