@@ -53,6 +53,7 @@ c++, stl, dsa practice problems and solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pacodey/dsa-prep/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/pacodey/dsa-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/pacodey/dsa-prep/tree/master/1732-find-the-highest-altitude) |
@@ -152,6 +153,7 @@ c++, stl, dsa practice problems and solutions
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/pacodey/dsa-prep/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1447-simplified-fractions](https://github.com/pacodey/dsa-prep/tree/master/1447-simplified-fractions) |
 | [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/pacodey/dsa-prep/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -244,6 +246,7 @@ c++, stl, dsa practice problems and solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/pacodey/dsa-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/pacodey/dsa-prep/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -359,6 +362,7 @@ c++, stl, dsa practice problems and solutions
 | [0605-can-place-flowers](https://github.com/pacodey/dsa-prep/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/pacodey/dsa-prep/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/pacodey/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
@@ -433,5 +437,6 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
