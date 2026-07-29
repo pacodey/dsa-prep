@@ -163,6 +163,7 @@ c++, stl, dsa practice problems and solutions
 | [2413-smallest-even-multiple](https://github.com/pacodey/dsa-prep/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/pacodey/dsa-prep/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pacodey/dsa-prep/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pacodey/dsa-prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
@@ -376,6 +377,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pacodey/dsa-prep/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pacodey/dsa-prep/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Divide and Conquer
 |  |
 | ------- |
