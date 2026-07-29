@@ -164,6 +164,7 @@ c++, stl, dsa practice problems and solutions
 | [2427-number-of-common-factors](https://github.com/pacodey/dsa-prep/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/pacodey/dsa-prep/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pacodey/dsa-prep/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/pacodey/dsa-prep/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pacodey/dsa-prep/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
@@ -401,6 +402,7 @@ c++, stl, dsa practice problems and solutions
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/pacodey/dsa-prep/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/pacodey/dsa-prep/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/pacodey/dsa-prep/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
 ## Enumeration
 |  |
