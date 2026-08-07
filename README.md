@@ -39,6 +39,7 @@ c++, stl, dsa practice problems and solutions
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/pacodey/dsa-prep/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/pacodey/dsa-prep/tree/master/1207-unique-number-of-occurrences) |
@@ -144,6 +145,7 @@ c++, stl, dsa practice problems and solutions
 | [0728-self-dividing-numbers](https://github.com/pacodey/dsa-prep/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/pacodey/dsa-prep/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/pacodey/dsa-prep/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/pacodey/dsa-prep/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/pacodey/dsa-prep/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pacodey/dsa-prep/tree/master/1232-check-if-it-is-a-straight-line) |
