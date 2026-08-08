@@ -155,6 +155,7 @@ c++, stl, dsa practice problems and solutions
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pacodey/dsa-prep/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/pacodey/dsa-prep/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/pacodey/dsa-prep/tree/master/1390-four-divisors) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/pacodey/dsa-prep/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1447-simplified-fractions](https://github.com/pacodey/dsa-prep/tree/master/1447-simplified-fractions) |
@@ -306,6 +307,7 @@ c++, stl, dsa practice problems and solutions
 | [0389-find-the-difference](https://github.com/pacodey/dsa-prep/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/pacodey/dsa-prep/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Queue
 |  |
 | ------- |
