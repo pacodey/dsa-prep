@@ -84,6 +84,7 @@ c++, stl, dsa practice problems and solutions
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
@@ -274,6 +275,7 @@ c++, stl, dsa practice problems and solutions
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/pacodey/dsa-prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +327,7 @@ c++, stl, dsa practice problems and solutions
 | [1512-number-of-good-pairs](https://github.com/pacodey/dsa-prep/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
+| [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
