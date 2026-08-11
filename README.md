@@ -82,6 +82,7 @@ c++, stl, dsa practice problems and solutions
 | [2614-prime-in-diagonal](https://github.com/pacodey/dsa-prep/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/pacodey/dsa-prep/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pacodey/dsa-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
@@ -115,6 +116,7 @@ c++, stl, dsa practice problems and solutions
 | [2404-most-frequent-even-element](https://github.com/pacodey/dsa-prep/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2748-number-of-beautiful-pairs](https://github.com/pacodey/dsa-prep/tree/master/2748-number-of-beautiful-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pacodey/dsa-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
 ## Math
@@ -275,6 +277,7 @@ c++, stl, dsa practice problems and solutions
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pacodey/dsa-prep/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pacodey/dsa-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/pacodey/dsa-prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
