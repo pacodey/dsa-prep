@@ -188,6 +188,7 @@ c++, stl, dsa practice problems and solutions
 | [2769-find-the-maximum-achievable-number](https://github.com/pacodey/dsa-prep/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pacodey/dsa-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/pacodey/dsa-prep/tree/master/3115-maximum-prime-difference) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pacodey/dsa-prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pacodey/dsa-prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pacodey/dsa-prep/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -301,6 +302,7 @@ c++, stl, dsa practice problems and solutions
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/pacodey/dsa-prep/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pacodey/dsa-prep/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pacodey/dsa-prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/pacodey/dsa-prep/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -474,6 +476,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pacodey/dsa-prep/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pacodey/dsa-prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/pacodey/dsa-prep/tree/master/3227-vowels-game-in-a-string) |
 ## Primality Test
 |  |
