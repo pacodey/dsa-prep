@@ -239,6 +239,7 @@ c++, stl, dsa practice problems and solutions
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pacodey/dsa-prep/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/pacodey/dsa-prep/tree/master/2396-strictly-palindromic-number) |
@@ -495,4 +496,5 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
