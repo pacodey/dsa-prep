@@ -375,6 +375,7 @@ c++, stl, dsa practice problems and solutions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pacodey/dsa-prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pacodey/dsa-prep/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pacodey/dsa-prep/tree/master/0342-power-of-four) |
@@ -490,4 +491,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/pacodey/dsa-prep/tree/master/2523-closest-prime-numbers-in-range) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
