@@ -88,6 +88,7 @@ c++, stl, dsa practice problems and solutions
 | [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pacodey/dsa-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/pacodey/dsa-prep/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -322,6 +323,7 @@ c++, stl, dsa practice problems and solutions
 | [0476-number-complement](https://github.com/pacodey/dsa-prep/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pacodey/dsa-prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pacodey/dsa-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
