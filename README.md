@@ -123,6 +123,7 @@ c++, stl, dsa practice problems and solutions
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pacodey/dsa-prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pacodey/dsa-prep/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/pacodey/dsa-prep/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +204,7 @@ c++, stl, dsa practice problems and solutions
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/pacodey/dsa-prep/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pacodey/dsa-prep/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3945-digit-frequency-score](https://github.com/pacodey/dsa-prep/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
