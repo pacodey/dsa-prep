@@ -205,6 +205,7 @@ c++, stl, dsa practice problems and solutions
 | [3765-complete-prime-number](https://github.com/pacodey/dsa-prep/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/pacodey/dsa-prep/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/pacodey/dsa-prep/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/pacodey/dsa-prep/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/pacodey/dsa-prep/tree/master/3945-digit-frequency-score) |
 ## String
