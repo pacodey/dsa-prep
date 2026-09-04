@@ -96,6 +96,7 @@ c++, stl, dsa practice problems and solutions
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pacodey/dsa-prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pacodey/dsa-prep/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/pacodey/dsa-prep/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/pacodey/dsa-prep/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -459,6 +460,7 @@ c++, stl, dsa practice problems and solutions
 | [1991-find-the-middle-index-in-array](https://github.com/pacodey/dsa-prep/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/pacodey/dsa-prep/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/pacodey/dsa-prep/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/pacodey/dsa-prep/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
