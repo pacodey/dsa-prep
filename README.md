@@ -441,6 +441,7 @@ c++, stl, dsa practice problems and solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/pacodey/dsa-prep/tree/master/0191-number-of-1-bits) |
@@ -478,6 +479,7 @@ c++, stl, dsa practice problems and solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -522,6 +524,7 @@ c++, stl, dsa practice problems and solutions
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/pacodey/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0876-middle-of-the-linked-list) |
@@ -533,4 +536,12 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pacodey/dsa-prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
