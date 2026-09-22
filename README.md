@@ -29,6 +29,7 @@ c++, stl, dsa practice problems and solutions
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pacodey/dsa-prep/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pacodey/dsa-prep/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pacodey/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pacodey/dsa-prep/tree/master/0283-move-zeroes) |
@@ -285,6 +286,7 @@ c++, stl, dsa practice problems and solutions
 | [0075-sort-colors](https://github.com/pacodey/dsa-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pacodey/dsa-prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pacodey/dsa-prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pacodey/dsa-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
@@ -446,6 +448,7 @@ c++, stl, dsa practice problems and solutions
 | [0053-maximum-subarray](https://github.com/pacodey/dsa-prep/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pacodey/dsa-prep/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/pacodey/dsa-prep/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -481,6 +484,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -583,4 +587,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pacodey/dsa-prep/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
