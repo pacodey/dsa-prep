@@ -393,6 +393,7 @@ c++, stl, dsa practice problems and solutions
 | [0070-climbing-stairs](https://github.com/pacodey/dsa-prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pacodey/dsa-prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pacodey/dsa-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/pacodey/dsa-prep/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/pacodey/dsa-prep/tree/master/0650-2-keys-keyboard) |
 | [0788-rotated-digits](https://github.com/pacodey/dsa-prep/tree/master/0788-rotated-digits) |
@@ -548,11 +549,13 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -562,9 +565,11 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
