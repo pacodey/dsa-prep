@@ -550,12 +550,14 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -566,10 +568,19 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
