@@ -92,6 +92,7 @@ c++, stl, dsa practice problems and solutions
 | [3467-transform-array-by-parity](https://github.com/pacodey/dsa-prep/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pacodey/dsa-prep/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pacodey/dsa-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pacodey/dsa-prep/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pacodey/dsa-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pacodey/dsa-prep/tree/master/3731-find-missing-elements) |
@@ -209,6 +210,7 @@ c++, stl, dsa practice problems and solutions
 | [3345-smallest-divisible-digit-product-i](https://github.com/pacodey/dsa-prep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pacodey/dsa-prep/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/pacodey/dsa-prep/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pacodey/dsa-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pacodey/dsa-prep/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pacodey/dsa-prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/pacodey/dsa-prep/tree/master/3765-complete-prime-number) |
