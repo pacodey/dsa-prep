@@ -41,6 +41,7 @@ c++, stl, dsa practice problems and solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/pacodey/dsa-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pacodey/dsa-prep/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/pacodey/dsa-prep/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/pacodey/dsa-prep/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/pacodey/dsa-prep/tree/master/0908-smallest-range-i) |
@@ -322,6 +323,7 @@ c++, stl, dsa practice problems and solutions
 | [0258-add-digits](https://github.com/pacodey/dsa-prep/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pacodey/dsa-prep/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/pacodey/dsa-prep/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/pacodey/dsa-prep/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pacodey/dsa-prep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pacodey/dsa-prep/tree/master/1260-shift-2d-grid) |
@@ -431,6 +433,7 @@ c++, stl, dsa practice problems and solutions
 | [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/pacodey/dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/pacodey/dsa-prep/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
