@@ -577,6 +577,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -584,6 +585,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -595,6 +597,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -628,4 +631,8 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pacodey/dsa-prep/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
