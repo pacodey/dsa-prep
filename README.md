@@ -433,6 +433,7 @@ c++, stl, dsa practice problems and solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/pacodey/dsa-prep/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pacodey/dsa-prep/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pacodey/dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pacodey/dsa-prep/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pacodey/dsa-prep/tree/master/0735-asteroid-collision) |
@@ -553,6 +554,7 @@ c++, stl, dsa practice problems and solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pacodey/dsa-prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pacodey/dsa-prep/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/pacodey/dsa-prep/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0876-middle-of-the-linked-list) |
@@ -576,6 +578,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -584,6 +587,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -596,6 +600,7 @@ c++, stl, dsa practice problems and solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/pacodey/dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pacodey/dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pacodey/dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pacodey/dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
