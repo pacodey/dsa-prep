@@ -73,6 +73,7 @@ c++, stl, dsa practice problems and solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pacodey/dsa-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pacodey/dsa-prep/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pacodey/dsa-prep/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pacodey/dsa-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pacodey/dsa-prep/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pacodey/dsa-prep/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -289,6 +290,7 @@ c++, stl, dsa practice problems and solutions
 | [0268-missing-number](https://github.com/pacodey/dsa-prep/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/pacodey/dsa-prep/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pacodey/dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pacodey/dsa-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +311,7 @@ c++, stl, dsa practice problems and solutions
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pacodey/dsa-prep/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/pacodey/dsa-prep/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pacodey/dsa-prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pacodey/dsa-prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pacodey/dsa-prep/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pacodey/dsa-prep/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/pacodey/dsa-prep/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
